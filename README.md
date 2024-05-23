@@ -1,6 +1,6 @@
 # PRODIGY_DS_02
  
-**1 Performing data cleaning and exploratory analysis on titanic dataset.**
+**1 Performing data cleaning and exploratory data analysis on titanic dataset.**
  - Removing null values
  - Filling null values
 
